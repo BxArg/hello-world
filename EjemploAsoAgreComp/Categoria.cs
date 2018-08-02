@@ -9,6 +9,6 @@ namespace EjemploAsoAgreComp
     {
         public int Id { get; set; }
         public string IdCategoria { get; }
-        public string IdCategoria2 { get; set; }
+        public string IdCategoria3 { get; set; }
     }
 }
